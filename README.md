@@ -1,1 +1,3 @@
-# gestionCenter
+<p align="left">🟦 Introduction to My First C++ Application<br>This is my first C++ application, and it's a simple school management system. The main purpose of the app is to manage basic information related to departments, teachers, and students.<br><br>Using this program, the user can:<br><br>Add new departments, teachers, and students<br><br>Edit existing records<br><br>Delete any entry<br><br>Display the stored data in an organized way<br><br>This project helped me practice the fundamentals of C++ such as:<br><br>Input/output operations<br><br>Working with classes and objects<br><br>Using functions for better code structure<br><br>Handling simple data storage in memory<br><br>It was a great learning experience and a solid starting point for more advanced C++ projects in the future.</p>
+
+###
